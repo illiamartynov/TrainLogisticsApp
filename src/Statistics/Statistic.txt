@@ -1,0 +1,481 @@
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 100.0 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 100.0 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 91.2 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 91.2 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 7%
+Distance Between Stations: 15%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 99.5 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 88.3 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 19%
+Distance Between Stations: 37%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 90.7 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 90.7 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 30%
+Distance Between Stations: 61%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 99.0 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 87.9 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 42%
+Distance Between Stations: 83%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 90.2 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 0%
+Distance Between Stations: 0%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 85.1 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 50%
+Distance Between Stations: 100%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 101.6 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 1%
+Distance Between Stations: 2%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 90.2 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 51%
+Distance Between Stations: 1%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 104.5 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 14%
+Distance Between Stations: 28%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 87.3 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 62%
+Distance Between Stations: 25%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 107.4 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 28%
+Distance Between Stations: 56%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 79.6 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 73%
+Distance Between Stations: 46%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 104.0 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 40%
+Distance Between Stations: 80%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 86.9 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 82%
+Distance Between Stations: 65%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 113.5 km/h
+Current Station: Lviv
+Next Station: Vinnytsia
+Distance Traveled: 50%
+Distance Between Stations: 100%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 89.3 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 94%
+Distance Between Stations: 87%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 131.5 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 50%
+Distance Between Stations: 100%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[Baggage{owner='Svyatoslav', weight=44.47}, Baggage{owner='Tom', weight=164.57}, Baggage{owner='John', weight=154.53}, Baggage{owner='Sanya', weight=168.32}, Baggage{owner='Mary', weight=143.77}, Baggage{owner='Denis', weight=125.01}, Baggage{owner='Arsen', weight=166.68}, Baggage{owner='Lisa', weight=132.79}]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[Letter{sender='Jane', receiver='Harris', cities='Kharkiv'}, Letter{sender='Jane', receiver='Smith', cities='Odessa'}, Letter{sender='Svyatoslav', receiver='Jackson', cities='Los Angeles'}, Letter{sender='Tom', receiver='Wilson', cities='New York'}, Letter{sender='Misha', receiver='Wilson', cities='Chicago'}, Letter{sender='John', receiver='Williams', cities='Odessa'}, Letter{sender='Illia', receiver='Miller', cities='Lugansk'}, Letter{sender='Jane', receiver='Williams', cities='Kharkiv'}, Letter{sender='Arsen', receiver='Smith', cities='New York'}, Letter{sender='Jane', receiver='Williams', cities='New York'}, Letter{sender='Arsen', receiver='Doe', cities='Los Angeles'}, Letter{sender='Svyatoslav', receiver='Harris', cities='Donetsk'}, Letter{sender='Denis', receiver='Miller', cities='Dnipro'}, Letter{sender='Arsen', receiver='Wilson', cities='Odessa'}, Letter{sender='Sanya', receiver='Doe', cities='Odessa'}, Letter{sender='Denis', receiver='Smith', cities='Dnipro'}, Letter{sender='Denis', receiver='Miller', cities='New York'}, Letter{sender='Denis', receiver='Johnson', cities='Lugansk'}, Letter{sender='Lisa', receiver='Williams', cities='Kyiv'}, Letter{sender='John', receiver='Brown', cities='Houston'}, Letter{sender='Tom', receiver='Doe', cities='Lugansk'}, Letter{sender='Tom', receiver='Davis', cities='Dnipro'}, Letter{sender='Misha', receiver='Smith', cities='London'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Lugansk'}, Letter{sender='Taras', receiver='Williams', cities='London'}, Letter{sender='Taras', receiver='Wilson', cities='London'}, Letter{sender='Misha', receiver='Miller', cities='Lugansk'}, Letter{sender='Sanya', receiver='Wilson', cities='Houston'}, Letter{sender='Jane', receiver='Johnson', cities='Lugansk'}, Letter{sender='John', receiver='Davis', cities='New York'}, Letter{sender='Arsen', receiver='Doe', cities='New York'}, Letter{sender='John', receiver='Wilson', cities='Kharkiv'}, Letter{sender='Taras', receiver='Miller', cities='Kyiv'}, Letter{sender='Misha', receiver='Davis', cities='Dnipro'}, Letter{sender='Denis', receiver='Brown', cities='New York'}, Letter{sender='Taras', receiver='Brown', cities='Los Angeles'}, Letter{sender='Arsen', receiver='Miller', cities='Houston'}, Letter{sender='Lisa', receiver='Jackson', cities='Donetsk'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Dnipro'}, Letter{sender='Sanya', receiver='Jackson', cities='Lviv'}, Letter{sender='John', receiver='Brown', cities='Donetsk'}, Letter{sender='Misha', receiver='Johnson', cities='Lviv'}, Letter{sender='Illia', receiver='Johnson', cities='Houston'}, Letter{sender='Misha', receiver='Harris', cities='Houston'}, Letter{sender='Illia', receiver='Brown', cities='Lugansk'}, Letter{sender='Taras', receiver='Williams', cities='Dnipro'}, Letter{sender='Tom', receiver='Anderson', cities='Chicago'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Donetsk'}, Letter{sender='Misha', receiver='Wilson', cities='Odessa'}, Letter{sender='Lisa', receiver='Williams', cities='Odessa'}]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 81.5 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 100%
+Distance Between Stations: 100%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= [Gas{name='Argon', volume=586.84}, Gas{name='Helium', volume=202.81}, Gas{name='Oxygen', volume=693.19}, Gas{name='Carbon monoxide', volume=430.11}, Gas{name='Iso-pentane', volume=311.51}, Gas{name='Propane', volume=493.28}, Gas{name='Propane', volume=408.77}, Gas{name='Iso-pentane', volume=639.7}, Gas{name='Propane', volume=596.33}, Gas{name='Iso-pentane', volume=454.88}, Gas{name='Xenon', volume=250.91}, Gas{name='Carbon monoxide', volume=601.51}, Gas{name='Iso-butane', volume=435.51}, Gas{name='Carbon monoxide', volume=214.41}, Gas{name='Ethane', volume=655.11}, Gas{name='Helium', volume=398.14}, Gas{name='Heptane', volume=501.16}, Gas{name='Butane', volume=586.98}, Gas{name='Iso-pentane', volume=520.55}, Gas{name='Neon', volume=259.11}, Gas{name='Nitrogen', volume=405.8}, Gas{name='Propane', volume=207.19}, Gas{name='Carbon monoxide', volume=566.7}, Gas{name='Iso-pentane', volume=273.6}, Gas{name='Oxygen', volume=502.04}, Gas{name='Hexane', volume=548.55}, Gas{name='Hydrogen', volume=584.92}, Gas{name='Argon', volume=200.39}, Gas{name='Xenon', volume=233.49}, Gas{name='Pentane', volume=594.62}, Gas{name='Methane', volume=272.03}, Gas{name='Butane', volume=671.35}, Gas{name='Heptane', volume=241.51}, Gas{name='Hydrogen', volume=590.92}, Gas{name='Neon', volume=624.14}, Gas{name='Neon', volume=261.33}, Gas{name='Helium', volume=489.06}, Gas{name='Iso-butane', volume=247.79}, Gas{name='Xenon', volume=293.74}, Gas{name='Iso-butane', volume=575.59}, Gas{name='Hexane', volume=476.24}, Gas{name='Helium', volume=627.63}, Gas{name='Octane', volume=618.74}, Gas{name='Heptane', volume=672.04}, Gas{name='Octane', volume=455.03}, Gas{name='Heptane', volume=340.59}, Gas{name='Argon', volume=397.25}, Gas{name='Butane', volume=546.48}, Gas{name='Pentane', volume=653.25}, Gas{name='Carbon monoxide', volume=282.07}, Gas{name='Helium', volume=640.17}, Gas{name='Pentane', volume=222.6}, Gas{name='Neon', volume=261.55}, Gas{name='Methane', volume=377.98}, Gas{name='Pentane', volume=395.74}, Gas{name='Hydrogen', volume=384.18}, Gas{name='Xenon', volume=432.41}, Gas{name='Pentane', volume=396.1}, Gas{name='Methane', volume=526.02}, Gas{name='Iso-butane', volume=293.68}, Gas{name='Argon', volume=267.22}, Gas{name='Octane', volume=535.79}, Gas{name='Oxygen', volume=669.26}, Gas{name='Octane', volume=561.34}, Gas{name='Iso-pentane', volume=696.15}, Gas{name='Octane', volume=507.8}, Gas{name='Octane', volume=247.64}, Gas{name='Butane', volume=661.96}, Gas{name='Octane', volume=375.75}, Gas{name='Nitrogen', volume=658.86}, Gas{name='Heptane', volume=657.8}, Gas{name='Carbon dioxide', volume=467.48}, Gas{name='Iso-butane', volume=570.08}, Gas{name='Carbon dioxide', volume=213.65}, Gas{name='Nitrogen', volume=397.25}, Gas{name='Neon', volume=643.88}, Gas{name='Iso-pentane', volume=641.4}, Gas{name='Propane', volume=693.82}, Gas{name='Carbon dioxide', volume=450.23}, Gas{name='Pentane', volume=497.36}]}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[Salad, Burger, Burger, Chicken curry, Salad, Salad, Burger, Borsh, Burger, Borsh, Pasta, Vareniki]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='PETN'}, ExplosiveItems{name='Nitroglycerin'}, ExplosiveItems{name='Explosive boosters'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='TNT'}, ExplosiveItems{name='Fireworks'}, ExplosiveItems{name='Smokeless powder'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Grenades'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Explosive charges'}, ExplosiveItems{name='Dynamite'}, ExplosiveItems{name='Octogen'}, ExplosiveItems{name='Fireworks'}]}
+
+Locomotive: Locomotive 1
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 135.2 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 54%
+Distance Between Stations: 8%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 8000.0
+Connected Railway Cars: 
+Baggage Railway Car{shipper='XYZ', securityInformation=true, netWeight=1000.0, grossWeight=2000.0, numberOfSeats=50, length=30.0, width=10.0, height=5.0, baggage=[Baggage{owner='Svyatoslav', weight=44.47}, Baggage{owner='Tom', weight=164.57}, Baggage{owner='John', weight=154.53}, Baggage{owner='Sanya', weight=168.32}, Baggage{owner='Mary', weight=143.77}, Baggage{owner='Denis', weight=125.01}, Baggage{owner='Arsen', weight=166.68}, Baggage{owner='Lisa', weight=132.79}]}
+Railway Post Office{shipper='ABC Company', securityInformation=false, netWeight=2000.0, grossWeight=3000.0, numberOfSeats=100, length=40.0, width=15.0, height=10.0, Railway Post Office=[Letter{sender='Jane', receiver='Harris', cities='Kharkiv'}, Letter{sender='Jane', receiver='Smith', cities='Odessa'}, Letter{sender='Svyatoslav', receiver='Jackson', cities='Los Angeles'}, Letter{sender='Tom', receiver='Wilson', cities='New York'}, Letter{sender='Misha', receiver='Wilson', cities='Chicago'}, Letter{sender='John', receiver='Williams', cities='Odessa'}, Letter{sender='Illia', receiver='Miller', cities='Lugansk'}, Letter{sender='Jane', receiver='Williams', cities='Kharkiv'}, Letter{sender='Arsen', receiver='Smith', cities='New York'}, Letter{sender='Jane', receiver='Williams', cities='New York'}, Letter{sender='Arsen', receiver='Doe', cities='Los Angeles'}, Letter{sender='Svyatoslav', receiver='Harris', cities='Donetsk'}, Letter{sender='Denis', receiver='Miller', cities='Dnipro'}, Letter{sender='Arsen', receiver='Wilson', cities='Odessa'}, Letter{sender='Sanya', receiver='Doe', cities='Odessa'}, Letter{sender='Denis', receiver='Smith', cities='Dnipro'}, Letter{sender='Denis', receiver='Miller', cities='New York'}, Letter{sender='Denis', receiver='Johnson', cities='Lugansk'}, Letter{sender='Lisa', receiver='Williams', cities='Kyiv'}, Letter{sender='John', receiver='Brown', cities='Houston'}, Letter{sender='Tom', receiver='Doe', cities='Lugansk'}, Letter{sender='Tom', receiver='Davis', cities='Dnipro'}, Letter{sender='Misha', receiver='Smith', cities='London'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Lugansk'}, Letter{sender='Taras', receiver='Williams', cities='London'}, Letter{sender='Taras', receiver='Wilson', cities='London'}, Letter{sender='Misha', receiver='Miller', cities='Lugansk'}, Letter{sender='Sanya', receiver='Wilson', cities='Houston'}, Letter{sender='Jane', receiver='Johnson', cities='Lugansk'}, Letter{sender='John', receiver='Davis', cities='New York'}, Letter{sender='Arsen', receiver='Doe', cities='New York'}, Letter{sender='John', receiver='Wilson', cities='Kharkiv'}, Letter{sender='Taras', receiver='Miller', cities='Kyiv'}, Letter{sender='Misha', receiver='Davis', cities='Dnipro'}, Letter{sender='Denis', receiver='Brown', cities='New York'}, Letter{sender='Taras', receiver='Brown', cities='Los Angeles'}, Letter{sender='Arsen', receiver='Miller', cities='Houston'}, Letter{sender='Lisa', receiver='Jackson', cities='Donetsk'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Dnipro'}, Letter{sender='Sanya', receiver='Jackson', cities='Lviv'}, Letter{sender='John', receiver='Brown', cities='Donetsk'}, Letter{sender='Misha', receiver='Johnson', cities='Lviv'}, Letter{sender='Illia', receiver='Johnson', cities='Houston'}, Letter{sender='Misha', receiver='Harris', cities='Houston'}, Letter{sender='Illia', receiver='Brown', cities='Lugansk'}, Letter{sender='Taras', receiver='Williams', cities='Dnipro'}, Letter{sender='Tom', receiver='Anderson', cities='Chicago'}, Letter{sender='Svyatoslav', receiver='Smith', cities='Donetsk'}, Letter{sender='Misha', receiver='Wilson', cities='Odessa'}, Letter{sender='Lisa', receiver='Williams', cities='Odessa'}]}
+
+Locomotive: Locomotive 2
+Base Station: Kyiv
+Start Station: Lviv
+End Station: Odessa
+Speed: 81.4 km/h
+Current Station: Vinnytsia
+Next Station: Odessa
+Distance Traveled: 100%
+Distance Between Stations: 100%
+Max Weight Capacity: 200000.0
+Max Carriage Count: 6
+Max Electrified Cars Count: 3
+Electrified Cars Count: 1
+Current Weight: 58200.0
+Connected Railway Cars: 
+Gaseous Railway Car{, shipper='ABC Company', securityInformation=true, netWeight=1000.0, grossWeight=1200.0, numberOfSeats=10, id=13, length=15.0, width=3.0, height=4.0, gases= []}
+PassengerRailwayCar{shipper='ABC', securityInformation=true, netWeight=5000.0, grossWeight=6000.0, numberOfSeats=20, length=40.0, width=15.0, height=10.0, dishes=[]}
+Explosives Railway Car{, shipper='US Military', securityInformation=true, netWeight=15000.0, grossWeight=30000.0, numberOfSeats=0, id=22, length=15.0, width=2.5, height=2.5, explosive items=[]}
+
